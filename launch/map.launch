@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="fastsim" type="simu_fastsim" name="simu_fastsim" output="screen">
+    <param name="settings" type="str" value="$(find fastsim)/envs/map.xml"/>
+    <param name="path" type="str" value="$(find fastsim)/envs" />
+  </node>
+</launch>
