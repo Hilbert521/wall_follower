@@ -1,0 +1,11 @@
+# Epuck 2 lasers sensors position in fastsim frame of reference
+ps stands for proximity sensor
+
+ps4: -151.22
+ps5: -90
+ps6: -45.79
+ps7: -17.14
+ps0: 17.23
+ps1: 45.88
+ps2: 90
+ps3: 151.49
